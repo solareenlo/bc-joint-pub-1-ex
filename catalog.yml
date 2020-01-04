@@ -1,0 +1,12 @@
+PREDEF:
+  - maegaki.re
+
+CHAPS:
+  - sample.re
+  - sample2.re
+  - taro-yamada.re
+
+APPENDIX:
+
+POSTDEF:
+  - atogaki.re
