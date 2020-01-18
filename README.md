@@ -13,8 +13,8 @@
 
 ## Usage
 ```bash
-git clone git@github.com:solareenlo/bc-joint-pub-1
-cd bc-joint-pub-1
+git clone git@github.com:solareenlo/bc-joint-pub-1-ex
+cd bc-joint-pub-1-ex
 
 # 下記の『ファイル説明』と『記事の出し方』と『Re:VIEW の書き方』を参考に記事を作成する
 
